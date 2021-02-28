@@ -9,6 +9,9 @@ DOMAIN,emby.prprcloud.com
 DOMAIN,emby.maying.club
 DOMAIN,emby.mdss.cloud
 DOMAIN,emby.linkfireka.xyz
+DOMAIN,emby.cjpc.xyz
+DOMAIN,emby.paoche.ooo
+
 
 # 备用服 1-4
 DOMAIN,emby.xeton.dev
@@ -19,10 +22,16 @@ DOMAIN,servers.xeton.dev
 # CF 公益服
 DOMAIN,emby-cf.plusmedia.site
 
-#终点站、卷毛鼠等
+# AGA 公益服
+DOMAIN,emby.plusmedia.site
+
+#其他
 DOMIAN-SUFFIX,emby.wtf
-DOMAIN-SUFFIX,plusmedia.site
 DOMAIN-SUFFIX,mickeycloud.com
 DOMAIN-SUFFIX,jmsooo.com
 
-DOMAIN-KEYWORD,emby
+# > 流媒体emby-Otaku体验服
+DOMAIN,emby.ok.edu.hk
+DOMAIN,emby.neko.edu.rs 
+DOMAIN,pub1.emby.wtf
+DOMAIN,pub1cf.emby.wtf
