@@ -1,5 +1,4 @@
-# 自己整理的
-# > Emby
+# Emby
 # 各机场服
 DOMAIN,emby.ytoo.li
 DOMAIN,emby.nexitally.com
@@ -25,13 +24,13 @@ DOMAIN,emby-cf.plusmedia.site
 # AGA 公益服
 DOMAIN,emby.plusmedia.site
 
-#其他
-DOMIAN-SUFFIX,emby.wtf
-DOMAIN-SUFFIX,mickeycloud.com
-DOMAIN-SUFFIX,jmsooo.com
-
-# > 流媒体emby-Otaku体验服
+# emby-Otaku体验服
 DOMAIN,emby.ok.edu.hk
 DOMAIN,emby.neko.edu.rs 
 DOMAIN,pub1.emby.wtf
 DOMAIN,pub1cf.emby.wtf
+
+# 其他
+DOMIAN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,mickeycloud.com
+DOMAIN-SUFFIX,jmsooo.com
