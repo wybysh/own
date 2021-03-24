@@ -20,11 +20,11 @@ DOMAIN,emby.ytoo.li
 # > 流媒体emby-prpr服务器
 DOMAIN,emby.prprcloud.com
 
-# > 流媒体emby-4K影视屋服务器
-DOMAIN,emby2021.kozow.com
-
 # > 流媒体emby-linkcube服务器
 DOMAIN,emby.linkfireka.xyz
+
+# > 流媒体emby-4K影视屋服务器
+DOMAIN,emby2021.kozow.com
 
 # > 流媒体emby-Plus体验服
 DOMAIN,emby.plusmedia.site
@@ -50,3 +50,8 @@ DOMAIN,cf1.jmsooo.com
 # > 流媒体emby-Odyssey+公益服
 DOMAIN,cf.youremby.gq
 DOMAIN,aga.youremby.gq
+
+
+# > 流媒体-终点站公益服及其他
+DOMIAN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,mickeycloud.com
