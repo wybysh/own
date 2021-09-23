@@ -1,6 +1,6 @@
 # 内容：Speedtest 测速
 # 数量：4条
- DOMAIN-SUFFIX,fast.com,Speedtest
- DOMAIN-KEYWORD,speedtest,Speedtest
- DOMAIN-SUFFIX,ooklaserver.net,Speedtest
- DOMAIN-SUFFIX,speed.cloudflare.com,Speedtest
+DOMAIN-SUFFIX,fast.com,Speedtest
+DOMAIN-KEYWORD,speedtest,Speedtest
+DOMAIN-SUFFIX,ooklaserver.net,Speedtest
+DOMAIN-SUFFIX,speed.cloudflare.com,Speedtest
