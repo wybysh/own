@@ -2,7 +2,7 @@
 DOMAIN,emby.nexitally.com
 
 # > 流媒体emby-自建服务器
-IP-CIDR,139.59.247.95/8096,no-resolve
+IP-CIDR,139.59.247.95/8096
 
 # > 流媒体emby-paoche服务器
 DOMAIN,emby.cjpc.cc
