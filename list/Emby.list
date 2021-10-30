@@ -58,6 +58,7 @@ DOMAIN,emby.immtel.com
 # > 流媒体Odyssey服务器
 DOMAIN,cf.odysseyplus.site
 DOMAIN,sg.odysseyplus.site
+DOMAIN,sg2.odysseyplus.site
 DOMAIN,sp.odysseyplus.site
 DOMAIN,ru.odysseyplus.site
 DOMAIN,us.odysseyplus.site
