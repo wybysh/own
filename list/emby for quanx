@@ -1,2 +1,4 @@
-# > 流媒体embyplus服务器
-HOST-SUFFIX,emby.embyplus.club
+# NAME: embyplus
+# AUTHOR: hubert
+# TOTAL: 1
+HOST-SUFFIX,embyplus.club,embyplus
