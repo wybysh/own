@@ -2,6 +2,5 @@
 # DOMAIN-SUFFIX: 1
 # IP-CIDR: 1
 # TOTAL: 2
-payload:
-  - DOMAIN-SUFFIX,embyplus.club
-  - IP-CIDR,66.94.113.56/24,no-resolve
+DOMAIN-SUFFIX,embyplus.club
+IP-CIDR,66.94.113.56/24,no-resolve
