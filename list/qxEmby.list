@@ -1,0 +1,116 @@
+# > 流媒体emby-nexitally服务器
+HOST-SUFFIX,emby.nexitally.com,Emby
+
+# > 流媒体emby-paoche服务器
+HOST-SUFFIX,emby.cjpc.cc,Emby
+
+# > 流媒体emby-flowercloud服务器
+HOST-SUFFIX,emby.flowercloud.yt,Emby
+
+# > 流媒体emby-maying服务器
+HOST-SUFFIX,emby.maying.club,Emby
+
+# > 流媒体emby-mdss服务器
+HOST-SUFFIX,emby.mdss.cloud,Emby
+
+# > 流媒体emby-ytoo服务器
+HOST-SUFFIX,emby.ytoo.li,Emby
+
+# > 流媒体emby-prpr服务器
+HOST-SUFFIX,emby.prprcloud.com,Emby
+
+# > 流媒体emby-nyancat服务器
+HOST-SUFFIX,emby.nyancat.net,Emby
+
+# > 流媒体emby-Plus体验服
+HOST-SUFFIX,emby.plusmedia.site,Emby
+HOST-SUFFIX,emby-cf.plusmedia.site,Emby
+HOST-SUFFIX,emby.xeton.dev,Emby
+HOST-SUFFIX,jellyfin.xeton.dev,Emby
+HOST-SUFFIX,movie.xeton.dev,Emby
+HOST-SUFFIX,servers.xeton.dev,Emby
+
+# > 流媒体emby-Otaku体验服
+HOST-SUFFIX,emby.otakudrive.life,Emby
+HOST-SUFFIX,emby2.otakudrive.life,Emby
+
+# > 流媒体emby-jmsooo体验服
+HOST-SUFFIX,sg1.jmsooo.com,Emby
+HOST-SUFFIX,sg2.jmsooo.com,Emby
+HOST-SUFFIX,dx1.jmsooo.com,Emby
+HOST-SUFFIX,dx2.jmsooo.com,Emby
+HOST-SUFFIX,usa1.jmsooo.com,Emby
+HOST-SUFFIX,usa2.jmsooo.com,Emby
+HOST-SUFFIX,usa3.jmsooo.com,Emby
+
+# > 流媒体pornemby服务器
+HOST-SUFFIX,vip.pornemby.club,Emby
+
+# > 流媒体IMM服务器
+HOST-SUFFIX,emby.immtel.com,Emby
+
+# > 流媒体Odyssey服务器
+HOST-SUFFIX,cf.odysseyplus.site,Emby
+HOST-SUFFIX,sg.odysseyplus.site,Emby
+HOST-SUFFIX,sg2.odysseyplus.site,Emby
+HOST-SUFFIX,sp.odysseyplus.site,Emby
+HOST-SUFFIX,ru.odysseyplus.site,Emby
+
+# > 流媒体Exflux服务器
+HOST-SUFFIX,line.emby.men,Emby
+
+# > 流媒体SoCloud服务器
+HOST-SUFFIX,emby.run,Emby
+
+# > 流媒体普拉斯影业服务器
+HOST-SUFFIX,emby.plusmedia.site,Emby
+HOST-SUFFIX,emby-sg.plusmedia.site,Emby
+HOST-SUFFIX,emby-cf.plusmedia.site,Emby
+HOST-SUFFIX,emby.xeton.dev,Emby
+HOST-SUFFIX,jellyfin.xeton.dev,Emby
+HOST-SUFFIX,movie.xeton.dev,Emby
+HOST-SUFFIX,servers.xeton.dev,Emby
+
+# > 流媒体终点站服务器
+HOST-SUFFIX,pub1.emby.wtf,Emby
+HOST-SUFFIX,pub2.emby.wtf,Emby
+HOST-SUFFIX,pub3.emby.wtf,Emby
+HOST-SUFFIX,pub1back.emby.wtf,Emby
+HOST-SUFFIX,pub2back.emby.wtf,Emby
+HOST-SUFFIX,pub3back.emby.wtf,Emby
+HOST-SUFFIX,pub1ha2.emby.wtf,Emby
+HOST-SUFFIX,pub2ha2.emby.wtf,Emby
+HOST-SUFFIX,pub3ha2.emby.wtf,Emby
+HOST-SUFFIX,pub1cm1.emby.wtf,Emby
+HOST-SUFFIX,pub2cm1.emby.wtf,Emby
+HOST-SUFFIX,pub3cm1.emby.wtf,Emby
+
+# > 流媒体WaveCloud服务器
+HOST-SUFFIX,embyserver.ga,Emby
+
+# > 流媒体Haochi服务器
+HOST-SUFFIX,public.kyarucloud.moe,Emby
+
+# > 流媒体深蓝影业服务器
+#HOST-SUFFIX,hd1.slyk.net,Emby
+
+# > 流媒体synX影业服务器
+#HOST-SUFFIX,synemby.filmind.club,Emby
+
+# > 流媒体猫熊影业服务器
+HOST-SUFFIX,embyclub.com,Emby
+HOST-SUFFIX,azsgp.embyclub.com,Emby
+HOST-SUFFIX,az-hk.embyclub.com,Emby
+
+# > 流媒体佛系公益影业服务器
+HOST-SUFFIX,emby2021.kozow.com,Emby
+
+#> 流媒体Misty影业服务器
+HOST-SUFFIX,emby.ssky.me,Emby
+HOST-SUFFIX,emby-jp.ssky.me,Emby
+HOST-SUFFIX,aaa.ax,Emby
+HOST-SUFFIX,emby-ru.ssky,Emby
+HOST-SUFFIX,emby-us,Emby
+
+# > 自建
+HOST-SUFFIX,embyplus.club,Emby
