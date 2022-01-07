@@ -118,3 +118,4 @@ HOST-SUFFIX,ok.embyplus.club,Emby
 HOST-SUFFIX,bs.embyplus.club,Emby
 HOST-SUFFIX,ku.embyplus.club,Emby
 HOST-SUFFIX,sp.embyplus.club,Emby
+IP-CIDR,66.94.113.56/24,no-resolve,Emby
